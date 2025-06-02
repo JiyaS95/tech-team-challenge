@@ -33,5 +33,10 @@
   color:#9019b8;   /* rich but friendly purple */
   margin-bottom: 20px;
 }
-
+.member-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
 
