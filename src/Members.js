@@ -27,7 +27,7 @@ function Members() {
       {renderRow(row1, 'row1')}
       {renderRow(row2, 'row2')}
       {renderRow(row3, 'row3')}
-      <p className="credit">Made by Jiya Shukla</p>
+      <p className="credit">~Made by Jiya Shukla</p>
     </div>
   );
 }
