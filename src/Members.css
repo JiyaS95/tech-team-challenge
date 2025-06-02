@@ -25,3 +25,12 @@
   height: auto;
   border-radius: 10px;
 }
+
+.members-container h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+  color: #9333ea; /* rich but friendly purple */
+  margin-bottom: 20px;
+}
+
+
