@@ -1,11 +1,10 @@
 import React from 'react';
-import './App.css';
-import members from './members';
+import Members from './Members';
 
 function App() {
   return (
     <div className="App">
-      <members />
+      <Members />
     </div>
   );
 }
