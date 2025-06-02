@@ -42,8 +42,9 @@
 }
 
 .credit {
-  font-size: 0.75rem;
-  color: #6b21a8; /* soft deep purple */
+  font-size: 1rem;
+  color: #560797; /* soft deep purple */
   margin-top: 40px;
   opacity: 0.6;
+  text-align: left;
 }
