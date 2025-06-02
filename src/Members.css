@@ -1,6 +1,8 @@
 .members-container {
-  text-align: center;
+  background-color: #f3e8ff;
+  min-height: 100vh;
   padding: 20px;
+  text-align: center;
   font-family: Arial, sans-serif;
 }
 
