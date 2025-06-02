@@ -1,5 +1,5 @@
 .members-container {
-  background-color: #a368de;
+  background-color: rgb(233, 189, 252);
   min-height: 100vh;
   padding: 20px;
   text-align: center;
@@ -30,7 +30,7 @@
 .members-container h1 {
   font-family: 'Dancing Script', cursive;
   font-size: 3rem;
-  color:rgb(237, 196, 255);   /* rich but friendly purple */
+  color:#a368de;   /* rich but friendly purple */
   margin-bottom: 20px;
 }
 
